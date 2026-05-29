@@ -9,7 +9,7 @@
 ### General
 #### freeze-favicon.js - Freezes website favicons upon initial load so you don't see any annoying favicon updates (WIP)
 ### Google
-#### remove-gemin-from-docs.js - Removes gemini integration from Google docs (WIP)
+#### [remove-gemin-from-docs.js](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/blob/main/scripts/google/remove-gemini-from-docs.js) - Removes ALL TRACES OF Gemini from Google docs
 #### remove-google-oauth-popups.js - Removes the popup you get prompting you to sign in with Google when you visit a site (WIP)
 ### Discord
 #### [make-pings-grey.js](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/blob/main/scripts/discord/make-pings-grey.js) - Makes the annoying red ping badges grey
