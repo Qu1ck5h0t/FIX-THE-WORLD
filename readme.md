@@ -5,7 +5,7 @@
 ### I made these scripts to reduce bloat and improve usability by reducing the hyper attention grabbing nonsense on popular web services. This is my attempt at FIXING THIS WORLD. 
 # Usage
 ### Pick the scripts you want, and install them with Tampermonkey. They are written to be as compact and lightweight as possible, following the philosophy I share with the old computing world long abandoned.
-## Scripts
+# Scripts
 ### General
 #### freeze-favicon.js - Freezes website favicons upon initial load so you don't see any annoying favicon updates (WIP)
 ### Google
