@@ -10,6 +10,7 @@
 #### freeze-favicon.js - Freezes website favicons upon initial load so you don't see any annoying favicon updates (WIP)
 ### Google
 #### [remove-gemin-from-docs.js](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/blob/main/scripts/google/remove-gemini-from-docs.js) - Removes ALL TRACES OF Gemini from Google docs
+#### [remove-synthetic-personalisation-gemini.js](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/blob/main/scripts/google/remove-synthetic-personalisation-gemini.js) - Removes the synthetic personalisation from Gemini prompt page (LLMs aren't your friend and shouldn't know you on a first name basis)
 ### Discord
 #### [make-pings-grey.js](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/blob/main/scripts/discord/make-pings-grey.js) - Makes the annoying red ping badges grey
 #### [make-highlights-grey.js](https://github.com/Qu1ck5h0t/FIX-THE-WORLD/blob/main/scripts/discord/make-pings-grey.js) - Makes the annoying yellow highlights you get from pings grey
